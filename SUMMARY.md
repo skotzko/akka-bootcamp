@@ -21,3 +21,10 @@
      * [Lesson 3: How to use HOCON to configure your routers](src/Unit-3/lesson3/README.md)
      * [Lesson 4: How to perform work asynchronously inside your actors using `PipeTo`](src/Unit-3/lesson4/README.md)
      * [Lesson 5: How to prevent deadlocks with `ReceiveTimeout`](src/Unit-3/lesson5/README.md)
+
+## Copyrighted Material
+![Petabridge Logo](images/petabridge_logo.png)
+
+All of the material used in this training is copyrighted by Petabridge LLC.
+
+The handouts and any materials distributed afterwards are intended for your personal use, not to be shared or redistributed.

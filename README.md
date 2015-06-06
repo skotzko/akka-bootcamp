@@ -50,7 +50,7 @@ In Unit 2 you will learn:
 
 **[Begin Unit 2](src/Unit-2)**.
 
-### Unit 3 
+### Unit 3
 In Unit 3, we will learn how to use actors for parallelism and scale-out using [Octokit](http://octokit.github.io/) and data from Github repos!
 
 In Unit 3 you will learn:
@@ -136,7 +136,7 @@ This course expects the following:
 
 [Petabridge](http://petabridge.com/) is a company dedicated to making it easier for .NET developers to build distributed applications.
 
-**[Petabridge also offers Akka.NET consulting and training](http://petabridge.com/ "Petabridge Akka.NET consulting and training")** - so please [sign up for our mailing list](http://petabridge.com/)!
+Petabridge also offers advanced Akka.NET training, so please check out our advanced courses on [Akka.Cluster](https://petabridge.com/training/akka-clustering/?utm_source=bootcamp_book&utm_medium=referral&utm_campaign=bootcamp), [Akka.Remote](https://petabridge.com/training/akka-remoting/?utm_source=bootcamp_book&utm_medium=referral&utm_campaign=bootcamp), and [Akka.NET Design Patterns](https://petabridge.com/training/akka-design-patterns/?utm_source=bootcamp_book&utm_medium=referral&utm_campaign=bootcamp) and let's see what we can create together!
 
 ---
 Copyright 2015 Petabridge, LLC
